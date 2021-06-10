@@ -1,6 +1,6 @@
 # burgerbuilder
 
-This is a final project made from a Udemy course but it is still in work...
+This is a final project made from a Udemy course but it is still in work....
 
 Tech Stack:
 - JavaScript
